@@ -151,8 +151,17 @@ main {
 }
 
 .portfolio-item:hover {
-    transform: translateY(-5px);
+    transform: translateY(-6px);
 }
+
+.contact:hover {
+    transform: translateY(+4px);
+}
+
+.rights:hover {
+    transform: translateY(+4px);
+    transform: translateX(-1px);
+}    
 
 /* Skills Section */
 .skills-list {
