@@ -12,7 +12,7 @@ html {
 }
 
 body {
-    background-image: url(https://www.hdwallpapers.in/download/minecraft_gameplay_4k_hd_minecraft-HD.jpg);
+    background-image: url(https://raw.githubusercontent.com/Yash00241/Yash00241.github.io/main/minecraft-background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -140,8 +140,8 @@ main {
     background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
     padding: 10px;
     border-radius: 5px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.35s;
     overflow: hidden;
 }
 
