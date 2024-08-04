@@ -140,7 +140,7 @@ main {
 
 .portfolio-item {
 	flex: 1 1 calc(50% - 20px);
-	background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+	background-color: rgba(40, 37, 40, 0.8); /* Semi-transparent white background */
 	padding: 10px;
 	border-radius: 5px;
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -224,6 +224,7 @@ h1 {
 }
 
 h3 {
+	color: #fff;
 	text-align: center;
 }
 
