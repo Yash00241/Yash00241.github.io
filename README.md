@@ -40,6 +40,6 @@ View the live website: **[Click Here!](https://yash00241.github.io)**
 
 ## Credits
 - **Font**: *[Montserrat](https://www.1001fonts.com/montserrat-font.html)*
-- **CSS**: *[normalize.css]https://git.io/normalize*
+- **CSS**: *[normalize.css](https://git.io/normalize)*
 - **JS**: *[hammer.js](https://hammerjs.github.io/)*
 - **JS**: *[jquery.js](https://jquery.com/download/)*
